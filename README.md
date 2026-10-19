@@ -71,3 +71,5 @@ Take the two required screenshots described in the assignment and upload them.
 npm install
 npm run build
 ```
+
+<!-- cd-pipeline automated test -->
